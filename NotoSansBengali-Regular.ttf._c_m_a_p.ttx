@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x20" name="uni00A0"/><!-- SPACE -->
+      <map code="0x21" name="exclam"/><!-- EXCLAMATION MARK -->
+      <map code="0x22" name="quotedbl"/><!-- QUOTATION MARK -->
+      <map code="0x23" name="numbersign"/><!-- NUMBER SIGN -->
+      <map code="0x25" name="percent"/><!-- PERCENT SIGN -->
+      <map code="0x27" name="quotesingle"/><!-- APOSTROPHE -->
+      <map code="0x28" name="parenleft"/><!-- LEFT PARENTHESIS -->
+      <map code="0x29" name="parenright"/><!-- RIGHT PARENTHESIS -->
+      <map code="0x2a" name="asterisk"/><!-- ASTERISK -->
+      <map code="0x2b" name="plus"/><!-- PLUS SIGN -->
+      <map code="0x2c" name="comma"/><!-- COMMA -->
+      <map code="0x2d" name="hyphen"/><!-- HYPHEN-MINUS -->
+      <map code="0x2e" name="period"/><!-- FULL STOP -->
+      <map code="0x2f" name="slash"/><!-- SOLIDUS -->
+      <map code="0x30" name="zero"/><!-- DIGIT ZERO -->
+      <map code="0x31" name="one"/><!-- DIGIT ONE -->
+      <map code="0x32" name="two"/><!-- DIGIT TWO -->
+      <map code="0x33" name="three"/><!-- DIGIT THREE -->
+      <map code="0x34" name="four"/><!-- DIGIT FOUR -->
+      <map code="0x35" name="five"/><!-- DIGIT FIVE -->
+      <map code="0x36" name="six"/><!-- DIGIT SIX -->
+      <map code="0x37" name="seven"/><!-- DIGIT SEVEN -->
+      <map code="0x38" name="eight"/><!-- DIGIT EIGHT -->
+      <map code="0x39" name="nine"/><!-- DIGIT NINE -->
+      <map code="0x3a" name="colon"/><!-- COLON -->
+      <map code="0x3b" name="semicolon"/><!-- SEMICOLON -->
+      <map code="0x3c" name="less"/><!-- LESS-THAN SIGN -->
+      <map code="0x3d" name="equal"/><!-- EQUALS SIGN -->
+      <map code="0x3e" name="greater"/><!-- GREATER-THAN SIGN -->
+      <map code="0x3f" name="question"/><!-- QUESTION MARK -->
+      <map code="0x5b" name="bracketleft"/><!-- LEFT SQUARE BRACKET -->
+      <map code="0x5c" name="backslash"/><!-- REVERSE SOLIDUS -->
+      <map code="0x5d" name="bracketright"/><!-- RIGHT SQUARE BRACKET -->
+      <map code="0x5e" name="asciicircum"/><!-- CIRCUMFLEX ACCENT -->
+      <map code="0x5f" name="underscore"/><!-- LOW LINE -->
+      <map code="0x7b" name="braceleft"/><!-- LEFT CURLY BRACKET -->
+      <map code="0x7c" name="bar"/><!-- VERTICAL LINE -->
+      <map code="0x7d" name="braceright"/><!-- RIGHT CURLY BRACKET -->
+      <map code="0x7e" name="asciitilde"/><!-- TILDE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0xad" name="uni00AD"/><!-- SOFT HYPHEN -->
+      <map code="0xd7" name="multiply"/><!-- MULTIPLICATION SIGN -->
+      <map code="0xf7" name="divide"/><!-- DIVISION SIGN -->
+      <map code="0x964" name="uni0964"/><!-- DEVANAGARI DANDA -->
+      <map code="0x965" name="uni0965"/><!-- DEVANAGARI DOUBLE DANDA -->
+      <map code="0x981" name="uni0981"/><!-- BENGALI SIGN CANDRABINDU -->
+      <map code="0x982" name="uni0982"/><!-- BENGALI SIGN ANUSVARA -->
+      <map code="0x983" name="uni0983"/><!-- BENGALI SIGN VISARGA -->
+      <map code="0x985" name="uni0985"/><!-- BENGALI LETTER A -->
+      <map code="0x986" name="uni0986"/><!-- BENGALI LETTER AA -->
+      <map code="0x987" name="uni0987"/><!-- BENGALI LETTER I -->
+      <map code="0x988" name="uni0988"/><!-- BENGALI LETTER II -->
+      <map code="0x989" name="uni0989"/><!-- BENGALI LETTER U -->
+      <map code="0x98a" name="uni098A"/><!-- BENGALI LETTER UU -->
+      <map code="0x98b" name="uni098B"/><!-- BENGALI LETTER VOCALIC R -->
+      <map code="0x98c" name="uni098C"/><!-- BENGALI LETTER VOCALIC L -->
+      <map code="0x98f" name="uni098F"/><!-- BENGALI LETTER E -->
+      <map code="0x990" name="uni0990"/><!-- BENGALI LETTER AI -->
+      <map code="0x993" name="uni0993"/><!-- BENGALI LETTER O -->
+      <map code="0x994" name="uni0994"/><!-- BENGALI LETTER AU -->
+      <map code="0x995" name="uni0995"/><!-- BENGALI LETTER KA -->
+      <map code="0x996" name="uni0996"/><!-- BENGALI LETTER KHA -->
+      <map code="0x997" name="uni0997"/><!-- BENGALI LETTER GA -->
+      <map code="0x998" name="uni0998"/><!-- BENGALI LETTER GHA -->
+      <map code="0x999" name="uni0999"/><!-- BENGALI LETTER NGA -->
+      <map code="0x99a" name="uni099A"/><!-- BENGALI LETTER CA -->
+      <map code="0x99b" name="uni099B"/><!-- BENGALI LETTER CHA -->
+      <map code="0x99c" name="uni099C"/><!-- BENGALI LETTER JA -->
+      <map code="0x99d" name="uni099D"/><!-- BENGALI LETTER JHA -->
+      <map code="0x99e" name="uni099E"/><!-- BENGALI LETTER NYA -->
+      <map code="0x99f" name="uni099F"/><!-- BENGALI LETTER TTA -->
+      <map code="0x9a0" name="uni09A0"/><!-- BENGALI LETTER TTHA -->
+      <map code="0x9a1" name="uni09A1"/><!-- BENGALI LETTER DDA -->
+      <map code="0x9a2" name="uni09A2"/><!-- BENGALI LETTER DDHA -->
+      <map code="0x9a3" name="uni09A3"/><!-- BENGALI LETTER NNA -->
+      <map code="0x9a4" name="uni09A4"/><!-- BENGALI LETTER TA -->
+      <map code="0x9a5" name="uni09A5"/><!-- BENGALI LETTER THA -->
+      <map code="0x9a6" name="uni09A6"/><!-- BENGALI LETTER DA -->
+      <map code="0x9a7" name="uni09A7"/><!-- BENGALI LETTER DHA -->
+      <map code="0x9a8" name="uni09A8"/><!-- BENGALI LETTER NA -->
+      <map code="0x9aa" name="uni09AA"/><!-- BENGALI LETTER PA -->
+      <map code="0x9ab" name="uni09AB"/><!-- BENGALI LETTER PHA -->
+      <map code="0x9ac" name="uni09AC"/><!-- BENGALI LETTER BA -->
+      <map code="0x9ad" name="uni09AD"/><!-- BENGALI LETTER BHA -->
+      <map code="0x9ae" name="uni09AE"/><!-- BENGALI LETTER MA -->
+      <map code="0x9af" name="uni09AF"/><!-- BENGALI LETTER YA -->
+      <map code="0x9b0" name="uni09B0"/><!-- BENGALI LETTER RA -->
+      <map code="0x9b2" name="uni09B2"/><!-- BENGALI LETTER LA -->
+      <map code="0x9b6" name="uni09B6"/><!-- BENGALI LETTER SHA -->
+      <map code="0x9b7" name="uni09B7"/><!-- BENGALI LETTER SSA -->
+      <map code="0x9b8" name="uni09B8"/><!-- BENGALI LETTER SA -->
+      <map code="0x9b9" name="uni09B9"/><!-- BENGALI LETTER HA -->
+      <map code="0x9bc" name="uni09BC"/><!-- BENGALI SIGN NUKTA -->
+      <map code="0x9bd" name="uni09BD"/><!-- BENGALI SIGN AVAGRAHA -->
+      <map code="0x9be" name="uni09BE"/><!-- BENGALI VOWEL SIGN AA -->
+      <map code="0x9bf" name="uni09BF"/><!-- BENGALI VOWEL SIGN I -->
+      <map code="0x9c0" name="uni09C0"/><!-- BENGALI VOWEL SIGN II -->
+      <map code="0x9c1" name="uni09C1"/><!-- BENGALI VOWEL SIGN U -->
+      <map code="0x9c2" name="uni09C2"/><!-- BENGALI VOWEL SIGN UU -->
+      <map code="0x9c3" name="uni09C3"/><!-- BENGALI VOWEL SIGN VOCALIC R -->
+      <map code="0x9c4" name="uni09C4"/><!-- BENGALI VOWEL SIGN VOCALIC RR -->
+      <map code="0x9c7" name="uni09C7"/><!-- BENGALI VOWEL SIGN E -->
+      <map code="0x9c8" name="uni09C8"/><!-- BENGALI VOWEL SIGN AI -->
+      <map code="0x9cb" name="uni09CB"/><!-- BENGALI VOWEL SIGN O -->
+      <map code="0x9cc" name="uni09CC"/><!-- BENGALI VOWEL SIGN AU -->
+      <map code="0x9cd" name="uni09CD"/><!-- BENGALI SIGN VIRAMA -->
+      <map code="0x9ce" name="uni09CE"/><!-- BENGALI LETTER KHANDA TA -->
+      <map code="0x9d7" name="uni09D7"/><!-- BENGALI AU LENGTH MARK -->
+      <map code="0x9dc" name="uni09DC"/><!-- BENGALI LETTER RRA -->
+      <map code="0x9dd" name="uni09DD"/><!-- BENGALI LETTER RHA -->
+      <map code="0x9df" name="uni09DF"/><!-- BENGALI LETTER YYA -->
+      <map code="0x9e0" name="uni09E0"/><!-- BENGALI LETTER VOCALIC RR -->
+      <map code="0x9e1" name="uni09E1"/><!-- BENGALI LETTER VOCALIC LL -->
+      <map code="0x9e2" name="uni09E2"/><!-- BENGALI VOWEL SIGN VOCALIC L -->
+      <map code="0x9e3" name="uni09E3"/><!-- BENGALI VOWEL SIGN VOCALIC LL -->
+      <map code="0x9e6" name="uni09E6"/><!-- BENGALI DIGIT ZERO -->
+      <map code="0x9e7" name="uni09E7"/><!-- BENGALI DIGIT ONE -->
+      <map code="0x9e8" name="uni09E8"/><!-- BENGALI DIGIT TWO -->
+      <map code="0x9e9" name="uni09E9"/><!-- BENGALI DIGIT THREE -->
+      <map code="0x9ea" name="uni09EA"/><!-- BENGALI DIGIT FOUR -->
+      <map code="0x9eb" name="uni09EB"/><!-- BENGALI DIGIT FIVE -->
+      <map code="0x9ec" name="uni09EC"/><!-- BENGALI DIGIT SIX -->
+      <map code="0x9ed" name="uni09ED"/><!-- BENGALI DIGIT SEVEN -->
+      <map code="0x9ee" name="uni09EE"/><!-- BENGALI DIGIT EIGHT -->
+      <map code="0x9ef" name="uni09EF"/><!-- BENGALI DIGIT NINE -->
+      <map code="0x9f0" name="uni09F0"/><!-- BENGALI LETTER RA WITH MIDDLE DIAGONAL -->
+      <map code="0x9f1" name="uni09F1"/><!-- BENGALI LETTER RA WITH LOWER DIAGONAL -->
+      <map code="0x9f2" name="uni09F2"/><!-- BENGALI RUPEE MARK -->
+      <map code="0x9f3" name="uni09F3"/><!-- BENGALI RUPEE SIGN -->
+      <map code="0x9f4" name="uni09F4"/><!-- BENGALI CURRENCY NUMERATOR ONE -->
+      <map code="0x9f5" name="uni09F5"/><!-- BENGALI CURRENCY NUMERATOR TWO -->
+      <map code="0x9f6" name="uni09F6"/><!-- BENGALI CURRENCY NUMERATOR THREE -->
+      <map code="0x9f7" name="uni09F7"/><!-- BENGALI CURRENCY NUMERATOR FOUR -->
+      <map code="0x9f8" name="uni09F8"/><!-- BENGALI CURRENCY NUMERATOR ONE LESS THAN THE DENOMINATOR -->
+      <map code="0x9f9" name="uni09F9"/><!-- BENGALI CURRENCY DENOMINATOR SIXTEEN -->
+      <map code="0x9fa" name="uni09FA"/><!-- BENGALI ISSHAR -->
+      <map code="0x9fb" name="uni09FB"/><!-- BENGALI GANDA MARK -->
+      <map code="0x200b" name="uniFEFF"/><!-- ZERO WIDTH SPACE -->
+      <map code="0x200c" name="afii61664"/><!-- ZERO WIDTH NON-JOINER -->
+      <map code="0x200d" name="afii301"/><!-- ZERO WIDTH JOINER -->
+      <map code="0x2013" name="endash"/><!-- EN DASH -->
+      <map code="0x2014" name="emdash"/><!-- EM DASH -->
+      <map code="0x2018" name="quoteleft"/><!-- LEFT SINGLE QUOTATION MARK -->
+      <map code="0x2019" name="quoteright"/><!-- RIGHT SINGLE QUOTATION MARK -->
+      <map code="0x201c" name="quotedblleft"/><!-- LEFT DOUBLE QUOTATION MARK -->
+      <map code="0x201d" name="quotedblright"/><!-- RIGHT DOUBLE QUOTATION MARK -->
+      <map code="0x2026" name="ellipsis"/><!-- HORIZONTAL ELLIPSIS -->
+      <map code="0x20b9" name="uni20B9"/><!-- ???? -->
+      <map code="0x2212" name="minus"/><!-- MINUS SIGN -->
+      <map code="0x25cc" name="uni25CC"/><!-- DOTTED CIRCLE -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+    </cmap_format_4>
+  </cmap>
+
+</ttFont>
